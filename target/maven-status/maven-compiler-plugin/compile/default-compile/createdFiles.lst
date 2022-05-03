@@ -1,0 +1,7 @@
+com/arup/wordle/models/WordleResponse.class
+com/arup/wordle/LetterPlacements.class
+com/arup/wordle/services/WordRepoService.class
+com/arup/wordle/WordleApplication.class
+com/arup/wordle/services/WordService.class
+com/arup/wordle/services/WordleEngine.class
+com/arup/wordle/controllers/WordListController.class
