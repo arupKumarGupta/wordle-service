@@ -1,6 +1,7 @@
 package com.arup.wordle.services;
 
 import com.arup.wordle.LetterPlacements;
+import org.slf4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
